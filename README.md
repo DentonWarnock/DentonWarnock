@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to Denton Warnock's GitHub Page 👋
+# Welcome to my GitHub Page 👋
 
-### A collection of my public code repositories for your viewing pleasure ✨
+### A collection of my public code repositories for your viewing pleasure ✨✨✨
 
 <div>
     <img src="https://media1.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47lmf3df26emem0saqwaa4nr4h39fr8hycmaxeuui8&rid=giphy.gif" style="width: 100%"></img>
@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 ## Technologies I know well and use regularly ⚡
 
 ```
-JavaScript, React, Redux, Recoil, Node, Express, PostgreSQL, Sqlite3, AWS, CSS3, HTML5, LESS, SCSS, Styled-Components, Bootstrap, Material-UI, Other UI Frameworks
+HTML, CSS, JavaScript, React, Redux, Node, Express, PostgreSQL, Sqlite3, AWS, LESS, SCSS, Styled-Components, Bootstrap, Material-UI, Other UI Frameworks
 ```
 
 ## Technologies I'm currently learning more about 🌱🤔
@@ -34,9 +34,7 @@ JavaScript, React, Redux, Recoil, Node, Express, PostgreSQL, Sqlite3, AWS, CSS3,
 TypeScript, React Native, PWAs, Motion UI, Web3, Blockchain ...
 ```
 
-## Please get in touch 📫😄
+## Please get in touch, I really enjoy working with others 📫😄
 
-- [Portfolio](https://www.dentonwarnock.com/)
-- [Linkedin](https://www.linkedin.com/in/denton-warnock/)
-- [Twitter](https://twitter.com/DentonWarnock)
+[Portfolio](https://www.dentonwarnock.com/) / [Linkedin](https://www.linkedin.com/in/denton-warnock/) / [Twitter](https://twitter.com/DentonWarnock)
 
