@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **DentonWarnock/DentonWarnock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I'm Denton a Full Stack Developer 
+# Hi, I'm Denton a Full Stack Developer 👋
 
-### I love to learn new things, code, and solve problems and puzzles 🔭
+### I love to learn new things, code with others, and solve problems and puzzles 🔭
 
 <div>
     <img src="https://media1.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47lmf3df26emem0saqwaa4nr4h39fr8hycmaxeuui8&rid=giphy.gif" style="width: 100%"></img>
