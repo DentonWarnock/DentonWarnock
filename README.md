@@ -13,28 +13,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Welcome to my GitHub Page 👋
 
-### A collection of my public code repositories for your viewing pleasure ✨✨✨
-
-<div>
-    <img src="https://media1.giphy.com/media/dxn6fRlTIShoeBr69N/giphy.gif?cid=ecf05e47lmf3df26emem0saqwaa4nr4h39fr8hycmaxeuui8&rid=giphy.gif" style="width: 100%"></img>
-</div>
-
-
-## Technologies I know well and use regularly ⚡
+## Tech I know and use 🤔
 
 ```
-HTML, CSS, JavaScript, React, Redux, Node, Express, PostgreSQL, Sqlite3, AWS, LESS, SCSS, Styled-Components, Bootstrap, Material-UI, Other UI Frameworks
+HTML, SCSS, JavaScript, React, NextJS, Redux, Node, Express, PostgreSQL, Sqlite3, AWS, Styled-Components, Bootstrap, Material-UI
 ```
 
-## Technologies I'm currently learning more about 🌱🤔
+## Tech I play with for fun ✨⚡😄⚡✨
 
 ```
-TypeScript, React Native, PWAs, Motion UI, Web3, Blockchain ...
+Web3, Blockchain, TypeScript, React Native
 ```
 
-## Please get in touch, I really enjoy working with others 📫😄
+### Please reach out and let's build something together! 💬
 
 [Portfolio](https://www.dentonwarnock.com/) / [Linkedin](https://www.linkedin.com/in/denton-warnock/) / [Twitter](https://twitter.com/DentonWarnock)
 
