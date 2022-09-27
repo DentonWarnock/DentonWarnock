@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 
-## Tech I know and use 🤔
+## Tech I know well and love to use ✨⚡😄⚡✨
 
 ```
 HTML, SCSS, JavaScript, React, NextJS, Redux, Node, Express, PostgreSQL, Sqlite3, AWS, Styled-Components, Bootstrap, Material-UI
 ```
 
-## Tech I play with for fun ✨⚡😄⚡✨
+## Tech I'm currently learning more about 🤔
 
 ```
 Web3, Blockchain, TypeScript, React Native
